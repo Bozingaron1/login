@@ -1,0 +1,196 @@
+body{
+    background-color: rgba(250, 250, 250, 1);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1072px;
+    margin: 0 auto;
+}
+
+header{
+    width: 1440px;
+    height: 140px;
+    border-bottom: 2px solid rgba(222, 219, 219, 1);
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.header-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 49px 0px;
+}
+
+.a{
+    text-decoration: none;
+    color: rgba(66, 66, 66, 1);
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.section-wrapper{
+    width: 650px;
+    height: 786px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(222, 219, 219, 1);
+    border-radius: 50px;
+    margin-top: 49px;
+    padding: 64px;
+}
+
+.a2{
+    text-decoration: none;
+    color: rgba(240, 64, 15, 1);
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.section-parents{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    margin-top: 131px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: rgba(14, 13, 93, 1);
+}
+
+.section-button{
+    background-color: rgba(245, 245, 245, 1);
+    width: 533px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    display:  flex;
+    margin-top: 53px;
+    border-radius: 20px;
+}
+
+.btn1{
+    width: 255px;
+    height: 54px;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: rgba(0, 0, 0, 1);
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 1);
+    border: none;
+}
+
+.btn2{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: rgba(117, 117, 117, 1);
+    background-color: transparent;
+    border: none;
+}
+
+.section-input{
+    width: 533px;
+    height: 70px;
+    background-color: rgba(250, 250, 250, 1);
+    margin-top: 39px;
+    border: 1px solid rgba(117, 117, 117, 0.19);
+    border-radius: 20px;
+    padding: 20px 51px;
+}
+
+.input{
+    background-color: transparent;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border: none;
+    outline: none;
+}
+
+.section-password{
+    width: 533px;
+    height: 70px;
+    background-color: rgba(250, 250, 250, 1);
+    margin-top: 39px;
+    border: 1px solid rgba(117, 117, 117, 0.19);
+    border-radius: 20px;
+    padding: 20px 51px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.password{
+    border: none;
+    outline: none;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    background-color: transparent;
+}
+
+.section-a{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 18px;
+    text-align: center;    
+
+}
+
+.a3{
+    color: rgba(0, 0, 0, 0.64);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.section-button2{
+    justify-content: end;
+    display: flex;
+    margin-top: 31px;
+}
+
+.btn3{
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: rgba(255, 255, 255, 1);
+    background-color: transparent;
+    text-align: center;
+    width: 202px;
+    height: 67px;
+    background-color: rgba(246, 158, 134, 1);
+    border-radius: 20px;
+    border: none;
+}   
+
